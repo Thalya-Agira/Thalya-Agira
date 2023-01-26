@@ -1,11 +1,12 @@
+
 ###
-Olá, sou a Thalya Ágira
+ <h1>Olá, sou a Thalya Ágira</h1>
 
 • 🔭Trabalho como Analista de Sistema Jr
 
-• 🌱Estudando: Front-End
+• 🌱Estudante de Front-End
 
-• 📫Entre em contato – me no e-mail: agiragoncalves@gmail.com
+• 📫Entre em contato no e-mail: agiragoncalves@gmail.com
 
 • 😄Pronomes: Ela/Dela
 
@@ -14,7 +15,7 @@ Olá, sou a Thalya Ágira
 ![Ágira GitHub stats](https://github-readme-stats.vercel.app/api?username=thalya-agira&show_icons=true&theme=mer)
 
 
-###Tecnologias que eu uso no meu dia
+### Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
